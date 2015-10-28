@@ -1,0 +1,51 @@
+@import "mixins.less";
+
+body {
+  text-shadow: 0px 0px 5px white;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+
+    .background-cover;
+    background-position: center;
+    background-image: url('../img/bg.jpg');
+    .filter-blur;
+    opacity: 0.7;
+}
+
+header {
+  h1 {
+    color: black;
+  }
+}
+
+#menu {
+  a {
+    .transition-all;
+    color: black;
+    &:hover,
+    &:focus {
+      color: white;
+      text-shadow: 0px 0px 5px black;
+    }
+  }
+  .menu-box {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    img {
+      width: 80px;
+      height: 80px;
+    }
+  }
+}
+
+.modal-body {
+  word-wrap: break-word;
+}
