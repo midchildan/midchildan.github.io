@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/midchildan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://midchildan.org
+  * I am midchildan (https://keybase.io/midchildan) on keybase.
+  * I have a public key ASDfxU-VWjsyIxJ94cONgBrf9nnx965fzbjxFHAMOKn9QQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120dfc54f955a3b3223127de1c38d801adff679f1f7ae5fcdb8f114700c38a9fd410a",
+            "host": "keybase.io",
+            "kid": "0120dfc54f955a3b3223127de1c38d801adff679f1f7ae5fcdb8f114700c38a9fd410a",
+            "uid": "743536c818cfbf0c73af0388f3166519",
+            "username": "midchildan"
+        },
+        "service": {
+            "hostname": "midchildan.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1482089785,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1482089682,
+        "hash": "0563cbd47c5cef04acce9b8e56062825d800f8261ecb6292c55ae9251ec4e3b38bf80a2a799fde3e28bc4cc8254d303af34d37a260aee7cb14d2502455f6bfe2",
+        "seqno": 766341
+    },
+    "prev": "73b9e75ad6421af37de8fd4e49e7ebbf2472bcf55430a8f45df715a6731634fa",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg38VPlVo7MiMSfeHDjYAa3/Z58feuX8248RRwDDip/UEKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZGZjNTRmOTU1YTNiMzIyMzEyN2RlMWMzOGQ4MDFhZGZmNjc5ZjFmN2FlNWZjZGI4ZjExNDcwMGMzOGE5ZmQ0MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGZjNTRmOTU1YTNiMzIyMzEyN2RlMWMzOGQ4MDFhZGZmNjc5ZjFmN2FlNWZjZGI4ZjExNDcwMGMzOGE5ZmQ0MTBhIiwidWlkIjoiNzQzNTM2YzgxOGNmYmYwYzczYWYwMzg4ZjMxNjY1MTkiLCJ1c2VybmFtZSI6Im1pZGNoaWxkYW4ifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1pZGNoaWxkYW4ub3JnIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4MjA4OTc4NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDgyMDg5NjgyLCJoYXNoIjoiMDU2M2NiZDQ3YzVjZWYwNGFjY2U5YjhlNTYwNjI4MjVkODAwZjgyNjFlY2I2MjkyYzU1YWU5MjUxZWM0ZTNiMzhiZjgwYTJhNzk5ZmRlM2UyOGJjNGNjODI1NGQzMDNhZjM0ZDM3YTI2MGFlZTdjYjE0ZDI1MDI0NTVmNmJmZTIiLCJzZXFubyI6NzY2MzQxfSwicHJldiI6IjczYjllNzVhZDY0MjFhZjM3ZGU4ZmQ0ZTQ5ZTdlYmJmMjQ3MmJjZjU1NDMwYThmNDVkZjcxNWE2NzMxNjM0ZmEiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA5dx8Kr6lSWk57xsuPETy9PgANyrmKsU8pJgPDdIrTNMHD8q63iVaOZ1BSIIpGl2jNLTprO5ZWp/s4+ZCLtAGB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGujoHRteNKR8vx49FwpREsk7wKjmGMcIPpX4MxL6wL6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/midchildan
+
+==================================================================
